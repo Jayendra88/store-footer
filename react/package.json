@@ -1,5 +1,6 @@
 {
 	"dependencies": {
+		"@gocommerce/utils": "^0.5.29",
 		"@types/ramda": "^0.25.39",
 		"classnames": "^2.2.6",
 		"ramda": "^0.26.1",
